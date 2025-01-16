@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @er1k06
-- 👀 I’m interested in learningnew things about coding
+- 👀 I’m interested in learning new things about coding
 - 🌱 I’m currently learning C#
 
 <!---
